@@ -1,1 +1,1 @@
-![](src/screenshot/hello-world.png)
+![](src/hello-world.png)
