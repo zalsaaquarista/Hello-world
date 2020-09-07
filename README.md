@@ -1,1 +1,1 @@
-git[](src/assets/hello-world.png)
+![](src/screenshot/hello-world.png)
