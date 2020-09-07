@@ -1,1 +1,1 @@
-![](src/hello-world.png)
+![](src/assets/hello-world.png)
